@@ -4,156 +4,34 @@
 
 > General
 
-<table width='100%'>
-  <tr>
-    <td align="center" width="96">
-      <a href="#stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript"         />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96"> 
-      <a href="#stack" >
-        <img src="https://brandeps.com/icon-download/Y/Yarn-icon-vector-03.svg" width="48" height="48" alt="yarn" />
-      </a>
-      <br>Yarn
-    </td>
-    <td align="center" width="96"> 
-      <a href="#stack" >
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
-      </a>
-      <br>Npm
-    </td>
-     <td align="center" width="96"> 
-      <a href="#stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="github" />
-      </a>
-      <br>Github
-    </td>
-  </tr> 
-</table>
+![JavaScript](https://img.shields.io/badge/javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![GitGub](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white)
 
 >  Code quality
 
-<table width='100%'>
-  <tr>
-     <td align="center" width="96">
-      <a href="#stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
-      </a>
-      <br>Eslint
-    </td>
-    <td align="center" width="96">
-      <a href="#stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
-      </a>
-      <br>Prettier
-    </td>
-    <td align="center" width="96"> 
-      <a href="#stack" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="48" height="48" alt="Jest" />
-      </a>
-      <br>Jest
-    </td>
-    <td align="center" width="96"> 
-      <a href="#stack" >
-        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="48" height="48" alt="Storybook" />
-      </a>
-      <br>Storybook
-    </td>
-  </tr> 
-</table>
+![eslint](https://img.shields.io/badge/eslint-%234B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![prettier](https://img.shields.io/badge/prettier-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![jest](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![storybook](https://img.shields.io/badge/storybook-%23FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
->  Frontend
+>  Front-end
+
+![React](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![nextjs](https://img.shields.io/badge/nextjs-%23000000?style=for-the-badge&logo=nextjs&logoColor=black)
+![mui](https://img.shields.io/badge/mui-%23007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![bootstrap](https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![css3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![html5](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![webpack](https://img.shields.io/badge/webpack-%238DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![sass](https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![tailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
  
-<table width='100%'>
-  <tr>
-    <td align="center" width="96">
-      <a href="#stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-          <td align="center" width="96"> 
-      <a href="#stack" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
-    <td align="center" width="96">
-      <a href="#stack">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>MUI
-    </td>
-   <td align="center" width="96">
-      <a href="#stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-     <td align="center" width="96"> 
-      <a href="#stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
-      </a>
-      <br>CSS3
-    </td>
-  </tr> 
-    <tr>
-    <td align="center" width="96">
-      <a href="#stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96"> 
-      <a href="#stack" >
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
-      </a>
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-      <a href="#stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>SASS
-    </td>
-   <td align="center" width="96">
-      <a href="#stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-  </tr> 
-</table>
+> Other (GameDev and just for fun)
 
-> GameDev
-
-<table width='100%'>
-  <tr>
-   <td align="center" width="96">
-      <a href="#stack">
-        <img src="https://phaser.io/images/logo/logo-download.png" width="48" height="48" alt="Phaser" />
-      </a>
-      <br>Phaser
-    </td>
-  </tr> 
-</table>
+![phaser](https://img.shields.io/badge/phaser-%23117ACA?style=for-the-badge&logoColor=white)
+![python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
