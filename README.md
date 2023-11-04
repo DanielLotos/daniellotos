@@ -38,3 +38,5 @@ Other (GameDev and just for fun)
 
 ![phaser](https://img.shields.io/badge/phaser-%23117ACA?style=for-the-badge&logoColor=white)
 ![python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
